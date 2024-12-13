@@ -14,7 +14,7 @@
 - **Системы сборки:** Maven, Gradle
 - **Базы данных:** PostgreSQL, MySql,H2, MongoDB*
 - **Очереди сообщений:** Kafka
-- **Контейнеризация:** Docker*, Docker Compose*, Kubernetes*
+- **Контейнеризация:** Docker, Docker Compose, Kubernetes*
 - **DevOps, инфраструктура и мониторинг:** Linux, Bash, Git
 - **API-дизайн:** REST API/JSON
 - **Сетевые технологии:** TCP/IP, HTTP, Nginx, Istio
