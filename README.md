@@ -9,8 +9,8 @@
 
 ## 💻 Основные навыки
 - **Языки программирования:** Backend (Java, Kotlin) Frontend (html,css,js) 
-- **Фреймворки:** Spring (Boot, Data, Cloud, Security, Kafka), Hibernate ORM
-- **Тестирование:** JUnit, Spring Boot Test, Mockito, MockMvc , Selenium
+- **Фреймворки:** Spring (Boot, Data, Cloud, Security, Kafka, OpenAi), Hibernate ORM
+- **Тестирование:** JUnit, Spring Boot Test, Mockito, MockMvc , Selenium , RestAssured
 - **Системы сборки:** Maven, Gradle
 - **Базы данных:** PostgreSQL, MySql, H2, MongoDB*
 - **Очереди сообщений:** Kafka
